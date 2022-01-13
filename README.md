@@ -1,0 +1,1 @@
+## :rocket: Basic Crud With Django  :rocket:
